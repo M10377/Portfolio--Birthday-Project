@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQ8UXTQ9O9rVX6qKRyYWWKEuBQKN2FncDlRqgpmDuSSJEjpryJ3DC+7Jtdn3MoupggymMWlMblyMPFjYMiz0nA==",
+  "success": true,
+  "projectFilePath": "/Users/micahbissell/Portfolio--Birthday-Project/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/micahbissell/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/Users/micahbissell/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
